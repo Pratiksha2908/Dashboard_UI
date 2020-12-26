@@ -1,6 +1,8 @@
-# dashboard_ui
+# Dashboard 4.0 UI task completed
 
-A new Flutter application.
+A Flutter application.
+
+<img src="https://user-images.githubusercontent.com/71315238/103158913-2f36ba80-47e9-11eb-8568-7c4787844e77.jpg" width="200" height="500" /> 
 
 ## Getting Started
 
